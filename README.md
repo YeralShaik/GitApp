@@ -7,17 +7,17 @@ Gif App es una aplicación simple para buscar y mostrar gifs utilizando la API d
 - Buscar gifs por términos de búsqueda.
 - Mostrar gifs en la interfaz de usuario.
 
-- Uso
+##Uso
 Ingresa un término de búsqueda en el campo de búsqueda.
 Haz clic en el botón de búsqueda o presiona Enter.
 Visualiza los resultados de la búsqueda.
 
--Tecnologías Utilizadas
+##Tecnologías Utilizadas
 HTML
 CSS
 JavaScript
 
--Contribuir
+##Contribuir
 Si deseas contribuir a este proyecto, sigue estos pasos:
 
 1 Haz un fork del repositorio.
@@ -27,8 +27,8 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 5 Abre un Pull Request en GitHub.
 
 
--Licencia
+##Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
--Agradecimientos
+##Agradecimientos
 Agradecemos a la comunidad de desarrolladores y a Giphy por proporcionar la API.
