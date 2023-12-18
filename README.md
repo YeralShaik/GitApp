@@ -6,6 +6,8 @@ Gif App es una aplicación simple para buscar y mostrar gifs utilizando la API d
 
 - Buscar gifs por términos de búsqueda.
 - Mostrar gifs en la interfaz de usuario.
+## Capturas de Pantalla
+  <img class="project-img" src="./asset/Captura de pantalla 2023-12-18 112528.png" >
 
 ##Uso
 Ingresa un término de búsqueda en el campo de búsqueda.
